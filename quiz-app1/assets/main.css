@@ -1,0 +1,31 @@
+.section {
+    background-color: #00ff00;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.question-section {
+    background-color: #8b00ff;
+    /* Violet */
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.correct {
+    background-color: #00ff00;
+    /* Vert */
+}
+
+.incorrect {
+    background-color: #ff0000;
+    /* Rouge */
+}
